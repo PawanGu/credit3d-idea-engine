@@ -1,0 +1,16 @@
+sector,rating_bucket,tenor_years,sector_oas_bps,rf_rate
+Banks,A,1,100,0.03
+Banks,A,3,120,0.032
+Banks,A,5,130,0.035
+Banks,A,7,135,0.037
+Banks,A,10,140,0.04
+Insurers,BBB,1,140,0.03
+Insurers,BBB,3,160,0.032
+Insurers,BBB,5,175,0.035
+Insurers,BBB,7,185,0.037
+Insurers,BBB,10,195,0.04
+Real Estate,BBB,1,170,0.03
+Real Estate,BBB,3,190,0.032
+Real Estate,BBB,5,205,0.035
+Real Estate,BBB,7,220,0.037
+Real Estate,BBB,10,230,0.04

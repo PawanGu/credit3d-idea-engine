@@ -1,0 +1,4 @@
+isin,issuer,sector,rating,maturity_yyyy_mm_dd,coupon,price,issue_size_mil,currency,seniority,country
+XS1234567890,Alpha Bank,Banks,A,2030-06-15,0.035,98.50,750,EUR,Senior,NL
+XS0987654321,Beta Insurance,Insurers,BBB,2029-11-20,0.04,96.80,1200,EUR,Tier2,DE
+XS1111111111,Gamma RE,Real Estate,BBB,2032-03-30,0.05,95.20,400,EUR,Senior,FR

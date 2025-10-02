@@ -1,0 +1,4 @@
+issuer,sector,cet1,lcr,nsfr,solvency_coverage,ltv,icr,green_lending_pct,coal_exposure_pct,controversies,trajectory
+Alpha Bank,Banks,13.5,150,110,, , ,35,10,0,improving
+Beta Insurance,Insurers, , , ,180, , , , ,1,flat
+Gamma RE,Real Estate, , , , ,45,3.5, , ,0,deteriorating
